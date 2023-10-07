@@ -1,2 +1,2 @@
-import requests
+import requests 
 # а дальше импортировались пакеты через само приложение
